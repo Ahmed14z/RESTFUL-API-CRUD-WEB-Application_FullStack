@@ -1,7 +1,7 @@
 # Setting up Your Project
 
 Welcome to the documentation for setting up Docker on your machine! Follow these steps to get your project up and running with Docker.
-
+Here's a youtube video of me testing this project : https://youtu.be/Y41scIcz440
 ## Installation
 
 1. First, download the project files and open them in VS Code.
