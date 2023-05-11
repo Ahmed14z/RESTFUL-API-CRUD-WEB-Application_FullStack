@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: lightblue;
+  background-image: url(background.jpg);
+  Background-size: 100%;
+  color: darkred;
+  padding: 30px;
+}
+.btn{
+background-color: aqua;
+}
+img{
+  display: block;
+  max-width: 100%;
+}
+
+.Title{
+  color: darkblue;
+  padding-top: 50px;
+  text-align: left;
+}
+
+.cust{
+  text-align: right;
+  text-transform: uppercase;
+  margin-left: 300px;
+}
+.custs{
+  text-align: right;
+
+}
+.cust2{
+  text-align: center;
+  padding-right:200px;
+  color: firebrick;
+  
+}
+
+.Body{
+  text-align: left;
+  color: black;
+}
