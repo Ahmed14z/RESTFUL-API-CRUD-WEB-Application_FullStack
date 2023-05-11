@@ -1,7 +1,11 @@
-# Setting up Your Project
+# Setting up Your Flask-React Project
 
-Welcome to the documentation for setting up Docker on your machine! Follow these steps to get your project up and running with Docker.
-Here's a youtube video of me testing this project : https://youtu.be/Y41scIcz440
+Welcome to the documentation for setting up Docker on your machine for your Flask-React project! Follow these steps to get your project up and running with Docker.
+
+## Project Overview
+
+This project uses a Flask backend to serve data to a React frontend. Docker will be used to containerize both the frontend and backend for easy deployment.
+
 ## Installation
 
 1. First, download the project files and open them in VS Code.
