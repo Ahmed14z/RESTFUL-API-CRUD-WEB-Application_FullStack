@@ -1,4 +1,4 @@
-# Setting up Docker for Your Project
+# Setting up Your Project
 
 Welcome to the documentation for setting up Docker on your machine! Follow these steps to get your project up and running with Docker.
 
