@@ -31,7 +31,7 @@ This project uses a Flask backend to serve data to a React frontend. Docker will
 
 3. Type `docker pull ahmedmansy/finalrestapi:latest` in the terminal to download the Docker image.
 
-4. Type `docker compose up --build flask_app` in the terminal to build and run the backend.
+4. Type `docker compose up flask_app` in the terminal to build and run the backend.
 
 ### Other Operating Systems
 
